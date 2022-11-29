@@ -1,0 +1,14 @@
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\lab_course.Properties.Resources.resources
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\lab_course.exe
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\lab_course.pdb
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.Form1.resources
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\bin\Debug\lab_course.exe.config
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\bin\Debug\lab_course.exe
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\bin\Debug\lab_course.pdb
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\bin\Debug\Queues.dll
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\bin\Debug\Structures.dll
+C:\Users\Valeriy\Videos\lab_course-master\lab_course\obj\Debug\CourseWork.csproj.CopyComplete
